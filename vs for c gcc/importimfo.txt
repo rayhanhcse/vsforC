@@ -1,0 +1,7 @@
+extention===>
+1.c c++
+2.code runner(open the code in terminal)
+3.file save(ex- test.c)
+4.download gcc & install
+5.change enviroment variable (add the mingw path)
+
